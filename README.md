@@ -2,7 +2,9 @@
 
 In this, we are going to see how to scrap tweets from Twitter using python and its packages.
 
-We are going to import a libray snscrape, if not installed, install the required libraries using --> pip install <library_name>
+Before proceeding, we have to install the required packages. If not installed, install the required packages using --> ***pip install <package_name>***
+
+Packages/libraries used -  * Snscrape, Pandas, Streamlit, PyMongo, Pillow *
 
 To extract the tweets by searching the Hashtag/keyword and count of tweet required from particular date range using modules.twitter in snscrape
 
