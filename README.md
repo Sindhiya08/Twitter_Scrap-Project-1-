@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/118071774/214391971-e5cbf57b-e415-4372-97b5-9d757967d87d.mp4
+
 # Twitter Scrap using snscrape
 
 In this, we are going to see how to scrap tweets from Twitter using python and its packages.
