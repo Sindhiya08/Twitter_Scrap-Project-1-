@@ -22,7 +22,7 @@ tweet_count=st.number_input(":red[Enter the count of tweets to scrap:]",step=1)
 from_date=st.date_input(":red[Select From Date:date:]")
 to_date=st.date_input(":red[Select To date:date:]")
 tweets=[]
-search_tweets= st.checkbox("Click to Search_Tweets")
+search_tweets= st.button("Click to Search_Tweets")
 
 if search_tweets:
     st.write('Tweets related to your search inputs ')
